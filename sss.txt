@@ -3,6 +3,12 @@ wall of shields
 standing strong
 on this their chosen battle field 
 
+<<<<<<< HEAD
 seasons
 nowadays
 all couple
+=======
+heaven\
+couplex
+dare 
+>>>>>>> feature
